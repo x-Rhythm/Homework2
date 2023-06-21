@@ -1,0 +1,15 @@
+C:\Users\user\OneDrive\Рабочий стол\C#\Birds\bird1\bin\Debug\net7.0\bird1.exe
+C:\Users\user\OneDrive\Рабочий стол\C#\Birds\bird1\bin\Debug\net7.0\bird1.deps.json
+C:\Users\user\OneDrive\Рабочий стол\C#\Birds\bird1\bin\Debug\net7.0\bird1.runtimeconfig.json
+C:\Users\user\OneDrive\Рабочий стол\C#\Birds\bird1\bin\Debug\net7.0\bird1.dll
+C:\Users\user\OneDrive\Рабочий стол\C#\Birds\bird1\bin\Debug\net7.0\bird1.pdb
+C:\Users\user\OneDrive\Рабочий стол\C#\Birds\bird1\obj\Debug\net7.0\bird1.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Рабочий стол\C#\Birds\bird1\obj\Debug\net7.0\bird1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\Рабочий стол\C#\Birds\bird1\obj\Debug\net7.0\bird1.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Рабочий стол\C#\Birds\bird1\obj\Debug\net7.0\bird1.AssemblyInfo.cs
+C:\Users\user\OneDrive\Рабочий стол\C#\Birds\bird1\obj\Debug\net7.0\bird1.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Рабочий стол\C#\Birds\bird1\obj\Debug\net7.0\bird1.dll
+C:\Users\user\OneDrive\Рабочий стол\C#\Birds\bird1\obj\Debug\net7.0\refint\bird1.dll
+C:\Users\user\OneDrive\Рабочий стол\C#\Birds\bird1\obj\Debug\net7.0\bird1.pdb
+C:\Users\user\OneDrive\Рабочий стол\C#\Birds\bird1\obj\Debug\net7.0\bird1.genruntimeconfig.cache
+C:\Users\user\OneDrive\Рабочий стол\C#\Birds\bird1\obj\Debug\net7.0\ref\bird1.dll
